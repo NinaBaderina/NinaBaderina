@@ -1,4 +1,4 @@
-### Hi there 👋 This is a laboratory work on modern software by Nina Baderina, a student of Komsomolsk-on-Amur State University
+### Добрый день👋 Это лабораторная работа по современным программным средствам студентки Комсомольского-на-Амуре технического университета
 
 <!--
 **NinaBaderina/NinaBaderina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
